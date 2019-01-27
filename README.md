@@ -5,6 +5,6 @@ navigation bar and class jumbotron which is a light flexible component for showc
 
 So feel free to fork this project and play-around with it and give it a star if you liked it.
 
-## Screenshots
+## Screenshot
 
 ![alt text](https://github.com/PrathamDogra/Landing-Page/blob/master/Screenshot.png)
