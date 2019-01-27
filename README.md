@@ -7,4 +7,4 @@ So feel free to fork this project and play-around with it and give it a star if 
 
 ## Screenshots
 
-![alt text].()
+![alt text](https://github.com/PrathamDogra/Landing-Page/blob/master/Screenshot.png)
