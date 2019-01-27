@@ -1,0 +1,25 @@
+
+/* For Jumbotron */
+#jumbo{
+  margin-top: 140px;
+
+}
+/* For learn more */
+#learn{
+  margin-top:30px;
+}
+
+body{
+  /* lineear gradient is used to make the background image a little opaque */
+  background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(crowd1.jpg);
+}
+
+.jumbotron{
+    /* lineear gradient is used to make the jumbotron a little opaque */
+    background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5));
+}
+
+
+#wait{
+  color: white;
+}
